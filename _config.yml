@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Jinyong Shin # the main title
 
-tagline: 정리용 블로그 테스트중. # it will display as the subtitle
+tagline: ML/AI Engineer의 정리용 블로그.  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -42,7 +42,8 @@ social:
     - https://github.com/JinyongShin # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jinyong-shin-0253a9204
+    
 
 # Site Verification Settings
 webmaster_verifications:

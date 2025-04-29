@@ -47,7 +47,7 @@ CI/CD 파이프라인은 일반적으로 다음과 같은 단계들을 거치며
 
 이러한 각 단계를 자동화하는 데 다양한 도구들이 사용됩니다. (예: Jenkins, GitLab CI/CD, GitHub Actions, CircleCI 등)
 
-### 3. 활용 예시: GitHub Pages 배포 (Chirpy 테마)
+### 3. GitHub Pages 배포의 예시 (현재 블로그에서 사용중인 Chirpy 테마 뜯어보기)
 
 이번에는 GitHub Pages를 사용하여 Jekyll 기반의 Chirpy 블로그 테마를 자동으로 배포하는 CI/CD 파이프라인 설정을 살펴보겠습니다. 아래의 `pages-deploy.yml` 파일은 GitHub Actions 워크플로우 설정 파일입니다. 'main' 혹은 'master' branch에 변경사항이 push 될 경우 동작하며, .gitignore, README.md, LICENSE 항목에 대한 push는 무시하도록 되어있네요. 그외에도 어떤 설정이 되어있는지 주석을 보시면 쉽게 파악할 수 있으리라 생각됩니다.
 

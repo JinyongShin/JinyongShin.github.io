@@ -3,7 +3,6 @@ title:  "GoogleADK-Docs에 contribution하기!"
 
 categories:
   - AI 기술
-  - 개발공부
 tags:
   - googleADK
   - github

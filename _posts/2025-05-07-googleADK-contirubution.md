@@ -47,9 +47,9 @@ _convert_tool_union_to_tool" 함수를 찾아보니 아래 이미지처럼 tool�
 
 해당 내용이 궁금하신 분들은 아래 링크 확인하시면 됩니다.
 
-[github issue 페이지지](https://github.com/google/adk-docs/issues/210)
+[github issue 페이지](https://github.com/google/adk-docs/issues/210)
 
-[github PR 페이지지](https://github.com/google/adk-docs/pull/212)
+[github PR 페이지](https://github.com/google/adk-docs/pull/212)
 
 그리고 몇일이 지났더니 해당 PR이 merge되어 제가 contributor 명단에 올라 갔습니다. 다음은 수정 반영 전/후의 docs 캡쳐입니다.
 

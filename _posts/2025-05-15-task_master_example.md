@@ -83,7 +83,7 @@ task-master init
 
 ![task-master init result](../assets/img/task_master_example/task_master_08_newfiles.png)
 
-새로 생성된 파일들 중 * .taskmasterconfig * file에서 앞서 세팅한 모델에 대한 내용을 확인할 수 있습니다. 또한 이 파일을 변경하여 task master가 사용할 모델을 변경할 수 있습니다.
+새로 생성된 파일들 중 *.taskmasterconfig* file에서 앞서 세팅한 모델에 대한 내용을 확인할 수 있습니다. 또한 이 파일을 변경하여 task master가 사용할 모델을 변경할 수 있습니다.
 
 이제 Task Master가 LLM 모델을 사용할 수 있도록 API Key를 등록해 줍니다. init을 실행하여 생성된 *.env.example* 파일을 참고하여 *.env* 파일을 생성하고, 해당 파일의 적절한 위치에 API Key를 입력해줍니다. 저는 Task Master가 기본 모델인 claude를 사용하도록 하였기 때문에 Anthropic API Key를 넣어주었습니다.
 

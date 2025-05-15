@@ -85,10 +85,10 @@ task-master init
 
 ![task-master init result](../assets/img/task_master_example/task_master_08_newfiles.png)
 
-새로 생성된 파일들 중 *.taskmasterconfig* file에서 앞서 세팅한 모델에 대한 내용을 확인할 수 있습니다. 또한 이 파일을 변경하여 task master가 사용할 모델을 변경할 수 있습니다.
+새로 생성된 파일들 중 `.taskmasterconfig` file에서 앞서 세팅한 모델에 대한 내용을 확인할 수 있습니다. 또한 이 파일을 변경하여 task master가 사용할 모델을 변경할 수 있습니다.
 
-이제 Task Master가 LLM 모델을 사용할 수 있도록 API Key를 등록해 줍니다. init을 실행하여 생성된 *.env.example* 파일을 참고하여 *.env* 파일을 생성하고, 해당 파일의 적절한 위치에 API Key를 입력해줍니다. 저는 Task Master가 기본 모델인 claude를 사용하도록 하였기 때문에 Anthropic API Key를 넣어주었습니다. 아래 이미지는 새로 생성한 *.env* 파일의 예시입니다. 화면의 우측에 열려있는 파일이 *.env.example* 파일이고, 저는 Anthropic API Key만 사용할 예정이기 때문에 해당 부분만 남겨 *.env* 파일을 생성하였습니다.
+이제 Task Master가 LLM 모델을 사용할 수 있도록 API Key를 등록해 줍니다. init을 실행하여 생성된 `.env.example` 파일을 참고하여 `.env` 파일을 생성하고, 해당 파일의 적절한 위치에 API Key를 입력해줍니다. 저는 Task Master가 기본 모델인 claude를 사용하도록 하였기 때문에 Anthropic API Key를 넣어주었습니다. 아래 이미지는 새로 생성한 `.env` 파일의 예시입니다. 화면의 우측에 열려있는 파일이 `.env.example` 파일이고, 저는 Anthropic API Key만 사용할 예정이기 때문에 해당 부분만 남겨 `.env` 파일을 생성하였습니다.
 
 ![example-dotenv](../assets/img/task_master_example/task_master_09_dotenv.png)
 
-*.env* 파일을 생성하고 API Key까지 입력해 주었다면 기본적인 준비는 완료입니다. 다음 포스팅에서는 실제로 해당 MCP를 사용하며 기능을 살펴보겠습니다. 감사합니다.
+`.env` 파일을 생성하고 API Key까지 입력해 주었다면 기본적인 준비는 완료입니다. 다음 포스팅에서는 실제로 해당 MCP를 사용하며 기능을 살펴보겠습니다. 감사합니다.

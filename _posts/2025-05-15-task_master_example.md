@@ -12,7 +12,7 @@ author: JinyongShin
 toc: true
 toc_sticky: true
  
-date: 2025-05-15 11:45:00 +0900
+date: 2025-05-15 11:00:00 +0900
 ---
 
 노마드 코더가 유투브에 공유해준 Task Master MCP를 실제로 사용해보았습니다. 이 MCP를 사용하는 방법을 정리하고 공유하고자 이 글을 작성합니다.

@@ -136,13 +136,13 @@ task-master expand --id=3 --num=6 --prompt="Break down the DQN algorithm impleme
 전체 태스크 확장:
 
 ```bash
-task-master expand --id=<id>
+task-master expand --all
 ```
 
 개별 태스크 확장:
 
 ```bash
-task-master expand --all
+task-master expand --id=<id>
 ```
 
 위 명령어를 통해 sub task 생성까지 완료하셨다면 이제 실제로 내가 다음으로 수행해야할 태스크가 무엇인지 확인해 보겠습니다. 터미널에 아래의 명령어를 실행 해보겠습니다.

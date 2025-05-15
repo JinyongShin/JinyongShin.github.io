@@ -7,6 +7,7 @@ tags:
   - MCP
   - TaskMaster
   - task-master
+  - taskmaster
 
 author: JinyongShin
 toc: true

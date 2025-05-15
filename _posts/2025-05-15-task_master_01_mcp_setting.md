@@ -1,5 +1,5 @@
 ---
-title:  "Task Master MCP 사용해보기 - 기본 세팅"
+title:  "Task Master MCP 사용해보기(1) - 기본 세팅"
 
 categories:
   - AI 기술

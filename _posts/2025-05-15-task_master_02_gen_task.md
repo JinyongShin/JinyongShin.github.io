@@ -5,7 +5,6 @@ categories:
   - AI 기술
 tags:
   - MCP
-  - TaskMaster
   - task-master
   - taskmaster
 

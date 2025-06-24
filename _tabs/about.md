@@ -4,5 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+### Hi there 👋 
+
+- 🔭 I mainly program in Python.
+
+- 🌱 I'm currently learning
+  - Deep Learning based Time series Analysis
+    - Anomaly Detection
+    - Time series forecasting
+    - etc
+  - Reinforcement Learning
+  - AI Agent Development
+    - GoogleADK
+  - A2A protocol
+
+- 📫 How to reach me: jysin0102@gmail.com

@@ -2,7 +2,8 @@
 title:  "Task Master MCP 사용해보기(2) - 기초 사용법"
 
 categories:
-  - AI 기술
+  - AI
+  - AI Tools
 tags:
   - MCP
   - task-master

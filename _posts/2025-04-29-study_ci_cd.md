@@ -2,7 +2,7 @@
 title:  "CI/CD 공부! (Github Actions에서 블로그 포스팅을 배포하는 구조(?))"
 
 categories:
-  - 개발공부
+  - 개발
 tags:
   - CI
   - CD

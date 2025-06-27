@@ -2,7 +2,7 @@
 title:  "GoogleADK-Docs에 contribution하기!"
 
 categories:
-  - AI 기술
+  - AI 에이전트
 tags:
   - googleADK
   - github

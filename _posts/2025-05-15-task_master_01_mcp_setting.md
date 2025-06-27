@@ -2,7 +2,8 @@
 title:  "Task Master MCP 사용해보기(1) - 기본 세팅"
 
 categories:
-  - AI 기술
+  - AI
+  - AI Tools
 tags:
   - MCP
   - task-master

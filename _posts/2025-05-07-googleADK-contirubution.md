@@ -2,6 +2,7 @@
 title:  "GoogleADK-Docs에 contribution하기!"
 
 categories:
+  - AI
   - AI 에이전트
 tags:
   - googleADK

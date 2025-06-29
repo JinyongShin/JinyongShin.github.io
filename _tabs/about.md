@@ -5,18 +5,160 @@ order: 4
 ---
 
 
-### Hi there 👋 
+![사진](https://prod-files-secure.s3.us-west-2.amazonaws.com/7e72080c-20a9-4927-8f1b-1bfc15018ef3/2ac66b2a-cb8c-4fef-8629-4c5cd8b666e4/%EC%A6%9D%EB%AA%85.png)
 
-- 🔭 I mainly program in Python.
+### **"안녕하세요 🙋‍♂️** **경제적 자유를 꿈꾸는 AI/ML Researcher 신진용입니다."**
 
-- 🌱 I'm currently learning
-  - Deep Learning based Time series Analysis
-    - Anomaly Detection
-    - Time series forecasting
-    - etc
-  - Reinforcement Learning
-  - AI Agent Development
-    - GoogleADK
-  - A2A protocol
+  e-mail : jysin0102@gmail.com
 
-- 📫 How to reach me: jysin0102@gmail.com
+  github : https://github.com/JinyongShin
+
+---
+
+2022년 03월 ~ 2024년 09월 (주)플레이오니에서 근무하며  산업 현장에서 발생하는 다양한 시계열 데이터를 분석하고, AI 모델링을 통해 이상 탐지, 분류, 클러스터링 등의 업무를 수행하였습니다.
+
+위 업무를 수행하면서 아래의 능력을 갖추게 되었습니다.
+
+- 다양한 방법으로 시계열 데이터 분석을 수행할 수 있음.
+- SOTA 모델 또는 최신 논문을 확인하고 AI 모델을 구현 및 적용할 수 있음.
+- 다양한 AI 모델의 동작 구조와 학습 원리를 이해할 수 있음.
+- 주어진 과제에 적합한 알고리즘을 선택할 수 있음.
+
+---
+
+2024년 09월 ~ 현재 알파브릿지에서 근무하며 금융 서비스에 AI를 적용하기 위한 다양한 업무를 수행하고 있습니다. 알파브릿지에서 수행한 다양한 업무를 통해 아래의 능력을 갖추게 되었습니다.
+
+- 경제 및 주식에 관련된 가격, 재무, 매크로 데이터를 활용한 시계열 데이터를 분석할 수 있음.
+- 다양한 프레임워크를 활용해 AI 에이전트를 구현할 수 있음.
+    - Google ADK, OpenAI Agent SDK, LangChain, LangGraph
+- 다양한 AI 에이전트를 결합하고 활용하여 멀티 에이전트 시스템, 에이전틱 AI를 구현할 수 있음.
+    - A2A
+- 쿠버네티스
+- 에어플로우
+- 레디스
+
+현재 관심사는 신뢰할 수 있는 해석을 제공하는 데이터 분석 알고리즘을 개발하는 것 입니다. 이를 위해 XAI(Explainable AI) 기법을 활용하여 모델의 결과를 신뢰할 수 있는 방식으로 해석하고, 이를 통해 모델의 판정 결과에 기여하는 요인을 명확히 설명하고자 합니다.
+
+또한 AI 에이전트 기술의 발전과 이를 통한 다양한 서비스 출시에 관심을 가지고 AI 에이전트 시스템의 아키텍트와 운영에 관심을 두고 있습니다. 
+
+---
+
+### 학력
+
+경북대학교 물리학과 학사 학위 (2013.03 ~ 2020.02)
+
+경북대학교 대학원 물리학과 석사 학위 (2020.03 ~ 2022.02)
+
+### 기술
+
+`Python` `Numpy` `Pandas` `h5py`  `Pytorch` `Scikit-learn` `Linux` `Shell script`  `Airflow` `K8S` `Redis`
+
+### 자격 및 어학
+
+2021.01 TOEIC SPEAKING LEVEL 6 (150)
+
+### 교육
+
+2021.12 한국 핀테크 지원 센터 - 핀테크 비즈니스 현황 및 트렌드
+
+2021.12 한국 핀테크 지원 센터 - 머신러닝 및 딥러닝
+
+2023.08 한국 PHM 학회 - PHM 리더양성을 위한 전문기술 강좌
+
+### 경력
+
+(주)플레이오니 ML1팀 연구원 (2022.03~2023.03)
+
+(주)플레이오니 ML1팀 주임 연구원 (2023.03~2024.09)
+
+알파브릿지(주) AI 포트폴리오 본부 모델개발팀 사원 (2024.09~현재)
+
+### 연구 및 프로젝트
+
+- 머신 러닝을 이용한 새로운 보존 및 암흑 섹터의 탐색 연구 (2020.03 ~ 2021.12)
+    - 연구 내용
+        - LHC CMS 실험 데이터 및 Simulation 데이터에 머신 러닝을 적용하여 새로운 보존 및 암흑 섹터에 대한 탐색을 진행
+        - 머신 러닝을 이용한 분석 결과와 기존 방식을 이용한 분석 결과 비교
+    - 담당한 연구
+        - CMS 실험 데이터 분류를 위한 CNN 모델 구현
+        - CNN을 이용한 데이터 분류 및 BDT를 사용한 선행 연구 결과와 비교
+        - 분류된 데이터를 이용한 추가적 분석
+    - 연구 결과
+        - [(석사 학위 논문) Search for dark matter produced in association with a top quark pair decaying into fully hadronic final state at HL-LHC using machine learning](http://www.dcollection.net/handler/knu/000000100656)
+    - 연구에 사용된 모델
+        - Boosted Decision Tree (BDT): 선행 연구와의 비교를 위해 사용
+        - Convolutional Neural Network (CNN): 암흑 물질이 생성된 이벤트를 분류 하기 위해 사용
+- 공구 마모 예측 타당성 테스트 프로젝트 (2022.04~22.08)
+    - 내용
+        - Random Forest 분류 방식에 대한 타당성 확인
+        - Anomaly Detection 분류 방식에 대한 타당성 확인
+        - Deep Clustering 기반 방식에 대한 타당성 확인
+        - 확인 결과로부터 Anomaly 식별 방법론 도출
+    - 사용 데이터 및 모델
+        - 사용 데이터 : UC Berkeley Milling Data
+        - 사용 모델 : Random Forest, TCN 적용한 VAE와 NAE
+- 회전 설비 고장 예지 테스트 프로젝트 (2022.05~2022.08)
+    - 내용
+        - KAMP 회전 설비 고장 유형 데이터셋에 S3VDC모델 적용하여 결과 확인
+        - Time series 데이터 분석을 위해 S3VDC 모델에 TCN레이어 적용
+        - 정상 데이터에 대한 적정 클러스터 수 확인
+        - 정상 및 Type 1~3 데이터 식별 정확도 확인
+    - 사용 데이터 및 모델
+        - 사용 데이터 : KAMP 회전 기계 고장 유형 데이터셋
+        - 사용 모델 : TCN 적용한 NAE
+- 공구 상태 모니터링 솔루션 개발(2022.09~2023.05)
+    - 내용
+        - CNC 머신에서 획득되는 전류 데이터를 활용한 Anomaly Detection 모델 학습 및 공구 상태 판별 로직 구현
+        - 대호 정밀, 엠에스테크에 솔루션 공급 (REST API 형태로 모델 판정 결과 반환)
+        - 특이 사항: 이상 탐지의 결과로 공구의 상태를 예측하며, Anomaly Score 기반의 잔여 수명 예측 진행(RUL 예측)
+    - 사용 데이터 및 모델
+        - 사용 데이터: CNC 머신의 스핀들 모터 및 서보 모터의 입력 전류를 전류 센서로 측정
+            - 샘플링 주기: 1KHz
+        - 사용 모델: TCN 기반의 VAE 및  Linear Regression 모델
+- 알루미늄 표면 결함 검출 솔루션 개발 (2022.08~2023.12)
+    - 내용
+        - Computer Vision을 활용한 알루미늄 폴대 표면 검사 솔루션의 개발
+        - 다양한 Anomaly Detection 모델 학습 및 앙상블 모델 형성
+        - 특이 사항: 수요 기업의 결함에 대한 기준이 모호하여 학습 과정에 어려움이 있었음. 결국 의견을 좁히지 못하여 프로젝트 실패 처리.
+    - 사용 데이터 및 모델
+        - 사용 데이터: 라인 스캔 카메라로 촬영한 알루미늄 폴대 표면 이미지 데이터
+        - 사용 모델:
+            - Siamese Network
+            - VAE
+            - Fast Flow
+            - ReConPatch
+            - PatchCore
+            - Patch MCDD
+            - Patch SVDD
+            - Deep Diffusion Anomaly Detection(DDAD)
+        - 모델 학습 특이 사항
+            - 이미지 데이터의 경우 기존에 학습된 모델을 backbone으로 활용 가능함. 시계열 데이터에 대한 backbone 모델의 필요성을 느낌
+            - 결함의 기준이 모호한 부분에 의해 학습에 문제를 야기함. 하지만 모호한 기준을 해결하기 위한 과정에서 능동 학습(Active Learning), 앙상블 기법 등을 활용하여 효과를 확인함.
+- 전기 용량 측정 시계열 데이터를 활용한 항생제 감수성 판정 솔루션 개발(2023.04~2023.12)
+    - 내용
+        - 2023년 AI 바우처 지원 사업으로 진행
+        - 세균 배양액에 다양한 종류와 농도의 항생제를 투여하고 시간에 따른 전기 용량을 측정하여 항생제에 대한 내성 여부를 확인하는 솔루션 개발
+        - 데이터 분석 및 Contrastive Learning을 통한 모델 구현. ONNX 형태로 모델 SDK 제공
+    - 사용 데이터 및 모델
+        - 사용 데이터: (주)프로티아에서 제공한 전기용량 측정 시계열 데이터
+        - 사용 모델
+            - TCN 기반 시계열 특징 추출 프로그램
+            - Contrastive Learning
+- 다변량 시계열 데이터를 사용한 Anomaly Detection 기반의 CNC 머신 충돌 감지 시스템 개발 (2023.06~2023.12)
+    - 내용
+        - 정부 과제 지능형 IoT 확산 지원사업으로 진행
+        - CNC 머신에 전류 센서, 진동 센서, 음향 센서를 설치하여 데이터 획득 및 충돌 감지 시스템 개발
+        - CNC 머신의 이상 상황을 실시간으로 감지하여 머신을 비상 정지하고 알림을 전송하는 시스템 구현
+        - 특허 출원
+            - https://www.kipris.or.kr/khome/detail/newWindow.do
+    - 사용 데이터 및 모델
+        - 사용 데이터
+            - 전류 센서 데이터(10KHz 샘플링)
+            - 진동 센서 데이터(3축 진동 데이터, 20KHz 샘플링)
+            - 음향 센서 데이터(10KHz 샘플링)
+        - 사용 모델
+            - TCN 기반의 VAE 모델
+            - 다변량 시계열 데이터를 입력으로 동작하는 구조의 구현
+        - 모델 학습 특이 사항
+            - 데이터의 진폭이 모델의 추론 결과에 영향을 줄 수 있으나, 실제 고장 상황에서 데이터의 진폭이 커지는 경향이 있음.
+            - 공정 상황에서 고장 상황에 의한 진폭의 상승인지, 외부 소음에 의한 진폭의 상승인지에 대한 고려가 필요하였음

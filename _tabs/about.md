@@ -5,8 +5,6 @@ order: 4
 ---
 
 
-![사진](https://prod-files-secure.s3.us-west-2.amazonaws.com/7e72080c-20a9-4927-8f1b-1bfc15018ef3/2ac66b2a-cb8c-4fef-8629-4c5cd8b666e4/%EC%A6%9D%EB%AA%85.png)
-
 ### **"안녕하세요 🙋‍♂️** **경제적 자유를 꿈꾸는 AI/ML Researcher 신진용입니다."**
 
   e-mail : jysin0102@gmail.com

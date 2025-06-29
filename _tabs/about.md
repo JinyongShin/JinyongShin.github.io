@@ -84,7 +84,7 @@ order: 4
         - CNN을 이용한 데이터 분류 및 BDT를 사용한 선행 연구 결과와 비교
         - 분류된 데이터를 이용한 추가적 분석
     - 연구 결과
-        - [(석사 학위 논문) Search for dark matter produced in association with a top quark pair decaying into fully hadronic final state at HL-LHC using machine learning](http://www.dcollection.net/handler/knu/000000100656)
+        - [(석사 학위 논문) Search for dark matter produced in association with a top quark pair decaying into fully hadronic final state at HL-LHC using machine learning](https://dcollection.knu.ac.kr/srch/srchDetail/000000100656)
     - 연구에 사용된 모델
         - Boosted Decision Tree (BDT): 선행 연구와의 비교를 위해 사용
         - Convolutional Neural Network (CNN): 암흑 물질이 생성된 이벤트를 분류 하기 위해 사용

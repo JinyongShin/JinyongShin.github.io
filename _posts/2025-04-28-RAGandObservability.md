@@ -118,7 +118,7 @@ RAG 시스템을 실제 업무에 적용하는 과정에서 자주 발생하는 
 
 ### RAG 시스템의 개선 방법
 
-![RAG 처리 플로우](https://private-user-images.githubusercontent.com/122662504/302837092-54a2d76c-b07e-49e7-b4ce-fc45667360a1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE4NjYzMzIsIm5iZiI6MTc1MTg2NjAzMiwicGF0aCI6Ii8xMjI2NjI1MDQvMzAyODM3MDkyLTU0YTJkNzZjLWIwN2UtNDllNy1iNGNlLWZjNDU2NjczNjBhMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwN1QwNTI3MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NGFkNTRlOWY3NTA4NjBiNjQwZTNjYTYwZDJmMmY0NmQ4ODhjNTk5OTU2NmEyNzliOTUwNmI0M2E0NjY2MDA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2jh4BN3-QKKG-e_S1gl_ZpFw5MRjb9nyr4ZU0iqNwik)
+![RAG 처리 플로우](https://github.com/langchain-ai/rag-from-scratch/assets/122662504/54a2d76c-b07e-49e7-b4ce-fc45667360a1)
 
 > Image from [rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch?tab=readme-ov-file) 
 

@@ -14,7 +14,7 @@ author: JinyongShin
 toc: true
 toc_sticky: true
  
-date: 2025-04-28 09:00:00 +0900
+date: 2025-04-28 18:00:00 +0900
 ---
 
 # 생성형 AI 시대, Observability와 RAG로 시스템을 최적화하는 방법

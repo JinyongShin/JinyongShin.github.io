@@ -1,5 +1,5 @@
 ---
-title:  "[Paper Review] Towards AI Paradigm"
+title:  "[Paper Review] Towards AI Search Paradigm"
 
 categories:
   - AI

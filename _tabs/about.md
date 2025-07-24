@@ -31,13 +31,9 @@ order: 4
     - Google ADK, OpenAI Agent SDK, LangChain, LangGraph
 - 다양한 AI 에이전트를 결합하고 활용하여 멀티 에이전트 시스템, 에이전틱 AI를 구현할 수 있음.
     - A2A
-- 쿠버네티스
-- 에어플로우
 - 레디스
 
-현재 관심사는 신뢰할 수 있는 해석을 제공하는 데이터 분석 알고리즘을 개발하는 것 입니다. 이를 위해 XAI(Explainable AI) 기법을 활용하여 모델의 결과를 신뢰할 수 있는 방식으로 해석하고, 이를 통해 모델의 판정 결과에 기여하는 요인을 명확히 설명하고자 합니다.
-
-또한 AI 에이전트 기술의 발전과 이를 통한 다양한 서비스 출시에 관심을 가지고 AI 에이전트 시스템의 아키텍트와 운영에 관심을 두고 있습니다. 
+현재 AI 에이전트 기술의 발전과 이를 통한 다양한 서비스 출시에 관심을 가지고 AI 에이전트 시스템의 아키텍트와 운영에 관심을 두고 있습니다. 
 
 ---
 
@@ -49,7 +45,7 @@ order: 4
 
 ### 기술
 
-`Python` `Numpy` `Pandas` `h5py`  `Pytorch` `Scikit-learn` `Linux` `Shell script`  `Airflow` `K8S` `Redis`
+`Python` `Numpy` `Pandas` `h5py`  `Pytorch` `Scikit-learn` `Linux` `Shell script`  `GoogleADK` `A2A`
 
 ### 자격 및 어학
 

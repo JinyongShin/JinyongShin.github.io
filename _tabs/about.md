@@ -4,18 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-작성하신 내용을 Markdown 형식으로 복사하기 쉽게 아래에 붙여넣어 드립니다. 캔버스나 별도의 문서 형식 없이 바로 보실 수 있습니다.
-
----
-
-## 신진용
-
+## 신진용 
 **AI 엔지니어 | 머신러닝 & AI 에이전트 전문가**
 
 ---
 
 **연락처**
-* **전화번호:** +821031985250
 * **이메일:** jysin0102@gmail.com
 * **블로그:** [https://jinyongshin.github.io/](https://jinyongshin.github.io/)
 
